@@ -1,6 +1,6 @@
 # apiserver
 
-## Dummy API server Response
+## Dummy  API server Response
 ```console
 $  curl -X GET https://my-json-server.typicode.com/kiranbpatil/apiserver/db
 ```
